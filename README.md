@@ -42,7 +42,10 @@
      anti_bota_pass "1234"
      anti_bota_dbname "anti_fakeplayers_ct_spawn"
      ```
-     
+
+5. **Need a local MySQL server for testing?**
+   - You can use [XAMPP](https://www.apachefriends.org/index.html), a free and easy-to-install package that includes MySQL and PHPMyAdmin.  
+     It’s great for local testing and quick setup.     
 
 ---
 
@@ -88,3 +91,13 @@
      anti_bota_pass "1234"
      anti_bota_dbname "anti_fakeplayers_ct_spawn"
      ```
+     
+ 5. **هل تحتاج إلى قاعدة بيانات MySQL محلية لتجربة السكربت؟**
+
+   يمكنك تحميل برنامج [XAMPP](https://www.apachefriends.org/index.html)، وهو حزمة مجانية وسهلة الاستخدام تحتوي على:
+   - **MySQL** لإنشاء قواعد البيانات.
+   - **phpMyAdmin** لإدارة الجداول بسهولة من المتصفح.
+   - لا يتطلب إعداد معقد، فقط تثبيت وتشغيل.
+
+   مناسب جدًا لتجربة السكربت على جهازك الشخصي قبل رفعه إلى السيرفر الحقيقي.
+
